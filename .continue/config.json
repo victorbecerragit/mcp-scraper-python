@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "web-browser-mcp-server": {
+      "command": "uv",
+      "args": ["tool", "run", "web-browser-mcp-server"],
+      "env": {
+        "REQUEST_TIMEOUT": "30"
+      }
+    }
+  }
+}
+
