@@ -22,11 +22,11 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 <!-- HACKER_NEWS_START -->
 Last updated: 2026-03-11 (UTC)
 
-- [Hacker News](https://news.ycombinator.com/)
-- [Hacker News](https://news.ycombinator.com/news)
-- [Hacker News](https://news.ycombinator.com/?lang=en)
-- [Top Links | Hacker News](https://news.ycombinator.com/best)
-- [Lists - Hacker News](https://news.ycombinator.com/lists)
+- [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)
+- [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
+- [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
+- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
+- [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
