@@ -5,82 +5,31 @@ Small CLI scraper for Hacker News top stories. The script accepts a site URL, th
 ## MCP Setup Notes
 
 - MCP configuration: .continue/config.json
+- Web browser MCP server: https://github.com/blazickjp/web-browser-mcp-server
+- Initial MCP test prompt:
+  - "Use web-browser-mcp-server to scrape top headlines from Hacker News. Extract:"
+  - "- Top 5 story titles and links"
+  - "- Use CSS: \"tr.athing td.title > span.titleline > a\" for titles/links"
 - Prompt used to create the initial scraper:
   - "add a scrape.py that take as input SITE(HackerNews default) NUM(top 5 default) STYLE(CSS default)"
 
-## Usage
+## Usage and Build
 
-Install dependencies:
+See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 
-```
-pip install -r requirements.txt
-```
+## Weekly Hacker News
 
-Local run:
+<!-- HACKER_NEWS_START -->
+Last updated: 2026-03-11 (UTC)
 
-```
-python app/scrape.py
-```
+- [The Hacker News | #1 Trusted Source for Cybersecurity News](https://thehackernews.com/)
+- [Top Links | Hacker News](https://news.ycombinator.com/best)
+- [Hacker News](https://cybersecuritynews.com/category/hacker-news/)
+- [Cybersecurity News and Analysis | Cybersecurity Dive](https://www.cybersecuritydive.com/)
+- [Information Security and IT Security News - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/)
+<!-- HACKER_NEWS_END -->
 
-From app directory:
-
-```
-cd app
-pip install -r requirements.txt
-python scrape.py
-```
-
-Custom inputs:
-
-```
-python app/scrape.py --site https://news.ycombinator.com/ --num 5 --style "tr.athing td.title > span.titleline > a"
-```
-
-Timeout/retry options:
-
-```
-python app/scrape.py --timeout 30 --retries 3
-```
-
-Query mode (search engine):
-
-```
-python app/scrape.py --query "top kubernetes vulnerabilities"
-```
-
-DuckDuckGo mode:
-
-```
-python app/scrape.py --engine duckduckgo --query "top kubernetes vulnerabilities"
-```
-
-JSON output:
-
-```
-python app/scrape.py --query "top kubernetes vulnerabilities" --output json
-```
-
-Note: Google may throttle or block automated requests. If that happens, try DuckDuckGo or provide a direct target URL.
-
-Google fallback:
-
-If Google returns no results, the scraper automatically falls back to DuckDuckGo.
-
-## Docker
-
-Build and run:
-
-```
-docker build -t hn-scraper .
-
-docker run --rm hn-scraper
-```
-
-Override args:
-
-```
-docker run --rm hn-scraper --num 10
-```
+This section is updated weekly by the CI pipeline using the local scraper output.
 
 Example output:
 
