@@ -22,11 +22,11 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 <!-- HACKER_NEWS_START -->
 Last updated: 2026-03-11 (UTC)
 
-- [The Hacker News | #1 Trusted Source for Cybersecurity News](https://thehackernews.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Hacker News](https://news.ycombinator.com/news)
+- [Hacker News](https://news.ycombinator.com/?lang=en)
 - [Top Links | Hacker News](https://news.ycombinator.com/best)
-- [Hacker News](https://cybersecuritynews.com/category/hacker-news/)
-- [Cybersecurity News and Analysis | Cybersecurity Dive](https://www.cybersecuritydive.com/)
-- [Information Security and IT Security News - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/)
+- [Lists - Hacker News](https://news.ycombinator.com/lists)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
