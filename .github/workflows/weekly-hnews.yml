@@ -16,8 +16,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     env:
-      SEARCH_QUERY: "site:news.ycombinator.com Hacker News"
-      SEARCH_ENGINE: "google"
+      # Optional query mode (example usage):
+      # SEARCH_QUERY: "site:news.ycombinator.com Hacker News"
+      # SEARCH_ENGINE: "google"
       NUM_RESULTS: "5"
       GO111MODULE: "off"
     steps:
@@ -41,7 +42,9 @@ jobs:
 
       - name: Fetch Hacker News results
         run: |
-          python app/scrape.py --engine "$SEARCH_ENGINE" --query "$SEARCH_QUERY" --num "$NUM_RESULTS" --output json > /tmp/hn-output.json
+          python app/scrape.py --site "https://news.ycombinator.com/" --num "$NUM_RESULTS" --output json > /tmp/hn-output.json
+          # Example query mode:
+          # python app/scrape.py --engine "$SEARCH_ENGINE" --query "$SEARCH_QUERY" --num "$NUM_RESULTS" --output json > /tmp/hn-output.json
 
       - name: Update README with trends
         run: |
