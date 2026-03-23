@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-03-16 (UTC)
+Last updated: 2026-03-23 (UTC)
 
-- [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
-- [The 49MB web page](https://thatshubham.com/blog/news-audit)
-- [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
-- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-- [Electric motor scaling laws and inertia in robot actuators](https://robot-daycare.com/posts/actuation_series_1/)
+- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+- [Tin Can, a 'landline' for kids](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
+- [Can you get root with only a cigarette lighter? (2024)](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+- [The future of version control](https://bramcohen.com/p/manyana)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
