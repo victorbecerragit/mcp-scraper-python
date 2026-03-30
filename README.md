@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-03-23 (UTC)
+Last updated: 2026-03-30 (UTC)
 
-- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-- [Tin Can, a 'landline' for kids](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
-- [Can you get root with only a cigarette lighter? (2024)](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
-- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-- [The future of version control](https://bramcohen.com/p/manyana)
+- [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
+- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+- [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
+- [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+- [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
