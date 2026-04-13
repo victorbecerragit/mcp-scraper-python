@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-04-06 (UTC)
+Last updated: 2026-04-13 (UTC)
 
-- [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex)
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
-- [Show HN: I made a YouTube search form with advanced filters](https://playlists.at/youtube/search/)
-- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+- [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+- [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
+- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
