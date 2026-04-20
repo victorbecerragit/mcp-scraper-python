@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-04-13 (UTC)
+Last updated: 2026-04-20 (UTC)
 
-- [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
-- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
-- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
-- [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
-- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
+- [SDF Public Access Unix System](https://sdf.org/?ssh)
+- [Ben Lerner's Big Feelings](https://www.vulture.com/article/ben-lerner-transcription-interview.html)
+- [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design)
+- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
