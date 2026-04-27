@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-04-20 (UTC)
+Last updated: 2026-04-27 (UTC)
 
-- [SDF Public Access Unix System](https://sdf.org/?ssh)
-- [Ben Lerner's Big Feelings](https://www.vulture.com/article/ben-lerner-transcription-interview.html)
-- [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design)
-- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
+- [Flipdiscs](https://flipdisc.io)
+- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
+- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)
+- [Self-updating screenshots](https://interblah.net/self-updating-screenshots)
+- [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
