@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-04-27 (UTC)
+Last updated: 2026-05-04 (UTC)
 
-- [Flipdiscs](https://flipdisc.io)
-- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
-- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)
-- [Self-updating screenshots](https://interblah.net/self-updating-screenshots)
-- [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
+- [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
+- [Using "underdrawings" for accurate text and numbers](https://samcollins.blog/underdrawings/)
+- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
+- [Discovering hard disk physical geometry through microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
