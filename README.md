@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-05-11 (UTC)
+Last updated: 2026-05-18 (UTC)
 
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
-- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
-- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
-- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+- [Why bambu_networking violates the AGPL in Bambu Studio](https://github.com/jarczakpawel/OrcaSlicer-bambulab/blob/main/bambu_agpl.md)
+- [GenCAD](https://gencad.github.io/)
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
+- [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
+- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
