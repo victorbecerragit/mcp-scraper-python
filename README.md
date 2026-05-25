@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-05-18 (UTC)
+Last updated: 2026-05-25 (UTC)
 
-- [Why bambu_networking violates the AGPL in Bambu Studio](https://github.com/jarczakpawel/OrcaSlicer-bambulab/blob/main/bambu_agpl.md)
-- [GenCAD](https://gencad.github.io/)
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-- [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
-- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
+- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
+- [Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
+- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
+- [I love my Bluetooth keyboard](https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/)
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
