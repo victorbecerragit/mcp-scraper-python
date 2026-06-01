@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-05-25 (UTC)
+Last updated: 2026-06-01 (UTC)
 
-- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
-- [Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
-- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
-- [I love my Bluetooth keyboard](https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/)
-- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+- [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
+- [Malaysia enforces ban on social media accounts for children younger than 16](https://apnews.com/article/malaysia-social-media-ban-16-bfaa7b01163b61b5d53c4ecfa870d133)
+- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
