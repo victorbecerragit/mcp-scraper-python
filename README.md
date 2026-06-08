@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-06-01 (UTC)
+Last updated: 2026-06-08 (UTC)
 
-- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
-- [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
-- [Malaysia enforces ban on social media accounts for children younger than 16](https://apnews.com/article/malaysia-social-media-ban-16-bfaa7b01163b61b5d53c4ecfa870d133)
-- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
+- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+- [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
+- [Cannibalism](https://b-ark.ca/2026/06/07/cannibalism.html)
+- [Is This the Dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
