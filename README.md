@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-06-08 (UTC)
+Last updated: 2026-06-15 (UTC)
 
-- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
-- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
-- [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
-- [Cannibalism](https://b-ark.ca/2026/06/07/cannibalism.html)
-- [Is This the Dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
+- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
