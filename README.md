@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-06-22 (UTC)
+Last updated: 2026-06-29 (UTC)
 
-- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
-- [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
-- [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
-- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+- [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
+- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
