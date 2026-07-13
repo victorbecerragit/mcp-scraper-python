@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-07-06 (UTC)
+Last updated: 2026-07-13 (UTC)
 
-- [OpenPrinter](https://www.opentools.studio/)
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-- [Organic Maps](https://organicmaps.app/)
-- [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
+- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
+- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+- [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
