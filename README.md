@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-07-13 (UTC)
+Last updated: 2026-07-20 (UTC)
 
-- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
-- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
-- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
-- [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics)
+- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
+- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](item?id=48968606)
+- [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
+- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
+- [Self-Powered Trailers Promise Leaner Freight Runs](https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
