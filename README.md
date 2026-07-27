@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-07-20 (UTC)
+Last updated: 2026-07-27 (UTC)
 
-- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
-- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](item?id=48968606)
-- [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
-- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
-- [Self-Powered Trailers Promise Leaner Freight Runs](https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+- [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
