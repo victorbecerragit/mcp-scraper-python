@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-07-27 (UTC)
+Last updated: 2026-08-03 (UTC)
 
-- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-- [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
-- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
-- [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
+- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+- [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
