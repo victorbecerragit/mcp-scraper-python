@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-08-03 (UTC)
+Last updated: 2026-08-10 (UTC)
 
-- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-- [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
-- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-- [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
+- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
+- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
