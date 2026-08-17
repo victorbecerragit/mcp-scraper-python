@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-08-10 (UTC)
+Last updated: 2026-08-17 (UTC)
 
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-- [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
-- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
-- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
-- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- [The Life and Death of Direct File \[pdf\]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
+- [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
