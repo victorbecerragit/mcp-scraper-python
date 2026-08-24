@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-08-17 (UTC)
+Last updated: 2026-08-24 (UTC)
 
-- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
-- [The Life and Death of Direct File \[pdf\]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
-- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-- [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
+- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
