@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-08-24 (UTC)
+Last updated: 2026-08-31 (UTC)
 
-- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
-- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
+- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- [My hobby of building miniatures and taking pretty pictures](https://sandyuraz.com/blogs/tiny-cafe/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
