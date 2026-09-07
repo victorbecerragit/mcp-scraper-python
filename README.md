@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-08-31 (UTC)
+Last updated: 2026-09-07 (UTC)
 
-- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
-- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
-- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
-- [My hobby of building miniatures and taking pretty pictures](https://sandyuraz.com/blogs/tiny-cafe/)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+- [I'm a seeing-eye dog for a computer](https://claytonwramsey.com/blog/seeing-eye/)
+- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+- [Ask HN: Fable hacked my piano, can I release the results?](item?id=49577129)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
