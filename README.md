@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-09-07 (UTC)
+Last updated: 2026-09-14 (UTC)
 
-- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-- [I'm a seeing-eye dog for a computer](https://claytonwramsey.com/blog/seeing-eye/)
-- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-- [Ask HN: Fable hacked my piano, can I release the results?](item?id=49577129)
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+- [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
