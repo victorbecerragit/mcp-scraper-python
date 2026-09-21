@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-09-14 (UTC)
+Last updated: 2026-09-21 (UTC)
 
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
-- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
-- [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)
+- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- [Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
