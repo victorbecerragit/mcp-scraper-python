@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-09-21 (UTC)
+Last updated: 2026-09-28 (UTC)
 
-- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
-- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
-- [Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+- [Thinking Fast and Slow in AI: the Role of Metacognition (2021)](https://arxiv.org/abs/2110.01834)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+- [Ember-1](https://fireworks.ai/blog/ember-1)
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- [Malleable software: Restoring user agency in a world of locked-down apps (2025)](https://www.inkandswitch.com/essay/malleable-software/)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
