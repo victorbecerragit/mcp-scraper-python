@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-09-28 (UTC)
+Last updated: 2026-10-05 (UTC)
 
-- [Thinking Fast and Slow in AI: the Role of Metacognition (2021)](https://arxiv.org/abs/2110.01834)
-- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
-- [Ember-1](https://fireworks.ai/blog/ember-1)
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-- [Malleable software: Restoring user agency in a world of locked-down apps (2025)](https://www.inkandswitch.com/essay/malleable-software/)
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+- [Replacement of Petroleum Based Products with Plant-Based Materials](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
+- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
+- [ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
