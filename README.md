@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-10-05 (UTC)
+Last updated: 2026-10-12 (UTC)
 
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
-- [Replacement of Petroleum Based Products with Plant-Based Materials](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
-- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
-- [ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps)
+- [Yandex bot traffic down 99% after data center attack](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
+- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
