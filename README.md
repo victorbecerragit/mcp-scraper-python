@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-10-12 (UTC)
+Last updated: 2026-10-19 (UTC)
 
-- [Yandex bot traffic down 99% after data center attack](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
-- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
-- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
-- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+- [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
+- [Agent-Skills.market](https://agent-skills.market/)
+- [There's never been a better time to go into math (by: 3blue1brown) \[video\]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
