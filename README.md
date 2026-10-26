@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-10-19 (UTC)
+Last updated: 2026-10-26 (UTC)
 
-- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-- [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
-- [Agent-Skills.market](https://agent-skills.market/)
-- [There's never been a better time to go into math (by: 3blue1brown) \[video\]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+- [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
