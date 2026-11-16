@@ -20,13 +20,13 @@ See [docs/USAGE.md](docs/USAGE.md) for install, local usage, and Docker steps.
 ## Weekly Hacker News
 
 <!-- HACKER_NEWS_START -->
-Last updated: 2026-11-09 (UTC)
+Last updated: 2026-11-16 (UTC)
 
-- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
-- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
+- [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
+- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
 <!-- HACKER_NEWS_END -->
 
 This section is updated weekly by the CI pipeline using the local scraper output.
